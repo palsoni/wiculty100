@@ -1,3 +1,5 @@
+To print prime numbers
+
 import java.util.*;
  
 class PrimeNumbers
